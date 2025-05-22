@@ -58,6 +58,67 @@ Google for common issues and error resolutions
 ChatGPT for doubt clarification (not for writing code)
 
 ---
+![image](https://github.com/user-attachments/assets/794d512e-7a3d-412f-9c59-4fe643a8e002)
+
+![image](https://github.com/user-attachments/assets/6e1aaa6b-240a-4dda-ad75-edb9958b8115)
+
+{
+    "saved": 3,
+    "rejected": 5,
+    "errors": [
+        {
+            "row": 4,
+            "errors": {
+                "name": [
+                    "This field may not be blank."
+                ],
+                "age": [
+                    "Age must be between 0 and 120."
+                ]
+            }
+        },
+        {
+            "row": 5,
+            "errors": {
+                "email": [
+                    "Enter a valid email address."
+                ]
+            }
+        },
+        {
+            "row": 7,
+            "errors": {
+                "email": [
+                    "user with this email already exists."
+                ]
+            }
+        },
+        {
+            "row": 8,
+            "errors": {
+                "email": [
+                    "Enter a valid email address."
+                ],
+                "age": [
+                    "A valid integer is required."
+                ]
+            }
+        },
+        {
+            "row": 9,
+            "errors": {
+                "email": [
+                    "Enter a valid email address."
+                ],
+                "age": [
+                    "A valid integer is required."
+                ]
+            }
+        }
+    ]
+}
 
 
+---
 
+![image](https://github.com/user-attachments/assets/79580b8d-24cc-4174-b2ff-7e8d3954166a)
